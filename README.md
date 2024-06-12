@@ -71,7 +71,7 @@ Arguments
 
 ## Acknowledgements
 
-This repository is built on top of open source project.
+This repository is built on top of the following open source projects.
 
 - [AASIST](https://github.com/clovaai/aasist)
 - [wavefake](https://github.com/RUB-SysSec/WaveFake/tree/main)
