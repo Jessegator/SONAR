@@ -12,6 +12,7 @@ Please download the following datasets and extract them in ``/data/``
 - [Wavefake](https://zenodo.org/records/5642694) 
 - [LibriSeVoc](https://github.com/csun22/Synthetic-Voice-Detection-Vocoder-Artifacts)
 - [In-the-wild](https://deepfake-total.com/in_the_wild)
+- [Collected dataset](https://drive.google.com/drive/u/1/folders/1JjgqtbGrGY_iFTapyPlsLuN3S9oJHhLB)
 
 The structure should look like
 
