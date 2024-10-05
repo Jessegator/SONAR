@@ -1,5 +1,5 @@
 # SONAR: A Synthetic AI-Audio Detection Framework and Benchmark
-An official implementation of submission #8452 "SONAR: A Synthetic AI-Audio Detection Framework and Benchmark"
+An official implementation of "SONAR: A Synthetic AI-Audio Detection Framework and Benchmark"
 
 ## Enviroment
 
