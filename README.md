@@ -8,7 +8,7 @@ An official implementation of submission #8452 "SONAR: A Synthetic AI-Audio Dete
 
 ## Datasets
 
-Please download the following datasets and extract them in ``/data/`` 
+Please download the following datasets and extract them in ``/data/``  or change the database path correspondingly in the code.
 
 - [Wavefake](https://zenodo.org/records/5642694) 
 - [LibriSeVoc](https://github.com/csun22/Synthetic-Voice-Detection-Vocoder-Artifacts)
