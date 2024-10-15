@@ -20,10 +20,8 @@ def genCustom_list(data_path, fake=True):
             d_meta[key] = 1
     real_database = './data/SONAR_dataset/real_samples/' 
     file_list = os.listdir(real_database) #
-    file_list = file_list[int(0.8 * len(file_list)):]
     file_list = random.sample(file_list, len(data_list))
-    # elif few_shot:
-    #     file_list = file_list[:20]
+
     for line in file_list:
         key = os.path.join(real_database, line)
         data_list.append(key)
